@@ -8,6 +8,5 @@
 
 
 
-
-# -> This Project Is A Clone Built Using HTML And CSS Only. 
-# -> It Was Developed As Part Of My Learning Journey In Web Development.
+#   This Project Is A Clone Built Using HTML And CSS Only. 
+#   It Was Developed As Part Of My Learning Journey In Web Development.
